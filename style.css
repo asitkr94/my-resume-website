@@ -1,0 +1,154 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html, body {
+    height: 100%;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+#firstcont {
+    background-color: #353f35;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+#secondcont {
+    color: #333333;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+
+#education {
+    background-color: #7fbdda;
+    color: rgb(0, 0, 0);
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 2.5rem;
+    padding-left:20%;
+    padding-right: 20%;
+    border-radius: 8px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-weight: bold;
+    margin-bottom: 30px;
+
+}
+
+#education p {
+   /* line-height: 2.5rem; */
+   background-color: #f4f4f4;
+   padding: 5px;
+   border-bottom: 1px solid #eee;
+   border-radius: 8px;
+   margin: 5px 0;
+}
+
+#skills {
+    background-color: #edeeb6;
+    color: rgb(0, 0, 0);
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 2.5rem;
+    padding-left:20%;
+    padding-right: 20%;
+    border-radius: 8px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-weight: bold;
+    margin-bottom: 30px;
+
+}
+
+#skills p {
+   /* line-height: 2.5rem; */
+   background-color: #f4f4f4;
+   padding: 5px;
+   border-bottom: 1px solid #eee;
+   border-radius: 8px;
+   margin: 5px 0;
+   font-weight: bold;
+}
+
+
+#projects {
+    background-color: #e5d5e7;
+    color: rgb(0, 0, 0);
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 2.5rem;
+    padding-left:20%;
+    padding-right: 20%;
+    border-radius: 8px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-weight: bold;
+    margin-bottom: 30px;
+
+}
+
+#projects p {
+   /* line-height: 2.5rem; */
+   background-color: #f4f4f4;
+   padding: 5px;
+   border-bottom: 1px solid #eee;
+   border-radius: 8px;
+   margin: 5px 0;
+   font-weight: bold;
+}
+
+
+
+#contacts {
+    background-color: #bbe2d5;
+    color: rgb(0, 0, 0);
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 2.5rem;
+    padding-left:20%;
+    padding-right: 20%;
+    border-radius: 8px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-weight: bold;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+
+}
+
+#contacts p {
+   /* line-height: 2.5rem; */
+   background-color: #f4f4f4;
+   padding: 5px;
+   border-bottom: 1px solid #eee;
+   border-radius: 8px;
+   margin: 5px 0;
+   font-weight: bold;
+}
